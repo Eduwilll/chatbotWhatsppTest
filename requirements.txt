@@ -1,0 +1,6 @@
+flask
+twilio
+pymongo
+dnspython
+pycep-correios
+gunicorn
